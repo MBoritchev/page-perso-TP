@@ -6,10 +6,10 @@ subtitle: Assistant professor at <a href='#'>Telecom Paris</a>, Institut Polytec
 
 profile:
   align: right
-  image: tiph.jpg
+  image: photo-pro-MB.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office 3A319</p>
+    <p>Office 5A26</p>
     <p>19 place Marguerite Perey</p>
     <p>Palaiseau</p>
 
@@ -18,16 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Tiphaine Viard, a *maîtresse de conférences* (~associate professor) in the Digital technologies, organisation and society team at Telecom Paris.
+Welcome to my homepage!
 
-I am interested in working on artificial intelligence and data analysis from a sociotechnical perspective.
-My main methods are graph analysis and computational sociology.
+I am Maria Boritchev, PhD. I am now a *maîtresse de conférences* (~assistant/associate professor) in the Signal, Statistics and Learning (S2A) team in the Information Processing and Communications Laboratory (LTCI) of Télécom Paris. I am a computational linguist, interested in working on all things that are related to linguistics of human-generated data. I work on semantics of natural languages and I have lately been specialising in Abstract Meaning Representation. 
 
-Currently, my main focus is on charting artificial intelligence, eliciting the relations betweeen concepts, persons and institutions over time.
+After studying at the ENS Lyon and completing a Master of Science in Natural Language Processing at the Université de Lorraine, I defended my PhD in Computer Science, entitled Modeling dialogues in a dynamic theory of types, in November 2021, at the Loria, under the supervision of Maxime Amblard and Philippe de Groote. My old homepage can be found here. After my PhD, I was a postdoctoral researcher at the Mathematical Institute of the Polish Academy of Sciences, in Warsaw, Poland, and then in Orange Labs, Lannion, France.
 
-You can find more information about my [current projects](projects/), the [courses I teach in](teaching/) or my [complete CV](assets/pdf/CV_Tiphaine_Viard.pdf).
-You can also follow me on <a rel="me" href="https://lipn.info/@t_viard">Mastodon</a> to get a more "day-to-day" version of my work.
+On my homepage, you will find a description of my [current research](projects/), my [résumé](assets/pdf/CV_MB_FR.pdf), my [publications](publications/), and my [teachings](teaching/), along with a [presentation of the DinG corpus](DinG/). Do not hesitate to contact me if you have any further questions or suggestions for my homepage.
 
 Current PhD supervisions:
-- Simon Delarue (2021-), co-supervised (50%) with Thomas Bonald,
-- Lilian Marey (2024-), co-supervised (30%) with Charlotte Laclau and Bruno Sguerra.
+- Yi Yu (2024-), co-supervised (50%) with Chloé Clavel.
