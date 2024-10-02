@@ -7,7 +7,7 @@ subtitle: Assistant professor at <a href='#'>Telecom Paris</a>, Institut Polytec
 profile:
   align: right
   image: photo-pro-MB.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Office 5A26</p>
     <p>19 place Marguerite Perey</p>
