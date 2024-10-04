@@ -12,4 +12,8 @@ We collect and analyze charters, documents and manifestos about "ethical AI", an
 Participants:
   - Tiphaine Viard
   - Mélanie Gornet
+  - Simon Delarue
+  - Maria Boritchev
+  - Matthieu Labeau
+  - Aina Garì Soler
 

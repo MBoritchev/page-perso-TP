@@ -6,9 +6,9 @@ img:
 importance: 1
 category: work
 ---
-
-We collect and analyze charters, documents and manifestos about "ethical AI", and use them as a defining corpus for AI ethics topics of interest.
+We conduct an error analysis of AMR parsers' outputs in order to characterise these errors and come up with pre- and post- processing heuristics to patch these. We work on data in English, French, German, Spanish, Italian, and Polish.
 
 Participants:
-  - Tiphaine Viard
-  - Mélanie Gornet
+  - Maria Boritchev
+  - Johannes Heinecke
+  - Frédéric Herlédan
