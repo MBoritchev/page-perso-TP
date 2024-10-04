@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Error analysis and AMR
-description: Painting the landscape of "ethical AI"
+description: Error analysis of AMR parsers' outputs, in English, French, German, Spanish, Italian, and Polish.
 img: 
 importance: 1
 category: work
