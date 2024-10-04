@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI ethics manifestos
+title: Error analysis and AMR
 description: Painting the landscape of "ethical AI"
 img: 
 importance: 1
