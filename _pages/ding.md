@@ -16,6 +16,6 @@ The corpus is available on Gitlab: https://gitlab.inria.fr/semagramme-public-pro
 
 **Publications:**
 
-A Multi-Party Dialogue Ressource in French, Maria Boritchev, Maxime Amblard, Thirteenth International Conference on Language Resources and Evaluation (LREC 2022), June 2022, Marseille, France. HAL PDF link. HAL BIBtex link.
+A Multi-Party Dialogue Ressource in French, Maria Boritchev, Maxime Amblard, Thirteenth International Conference on Language Resources and Evaluation (LREC 2022), June 2022, Marseille, France. 
 
 DinG — a corpus of transcriptions of real-life, oral, spontaneous multi-party dialogues between French-speaking players of Catan, Maria Boritchev, Maxime Amblard, Journées LIFT 2021 – Linguistique informatique, formelle et de terrain, GDR LIFT, Dec 2021, Grenoble, France. HAL PDF link. HAL BIBtex link.
