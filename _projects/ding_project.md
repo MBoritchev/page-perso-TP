@@ -11,4 +11,4 @@ We collected and transcribed 10 recordings of people playing the boardgame Catan
 
 Participants:
   - Maria Boritchev
-  - Maxime Amblard
+  - <a href='https://members.loria.fr/MAmblard/'>Maxime Amblard</a>
